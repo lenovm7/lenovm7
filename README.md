@@ -1,16 +1,20 @@
-## Hi there 👋
+# Leno V M
 
-<!--
-**lenovm7/lenovm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mechatronics Engineering Student | Embedded Systems & Edge AI**
 
-Here are some ideas to get you started:
+Building smart physical systems by bridging hardware control with machine intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ Quick Overview
+* **Focus:** Embedded C/C++, Microcontrollers , Python, Machine Learning
+* **Highlights:** Smart Plant Watering System, 3D-Printed Squeeze Fan, Edge AI Workshop
+* **Interests:** Robotics, IoT, Automation, Supervised Learning
+
+---
+
+### 🛠️ Tech Stack
+```text
+Hardware  : STM32 | Arduino | 555 Timers | Sensors & Actuators
+Software  : Python | Embedded C/C++ | MATLAB
+AI / ML   : Edge AI | Scikit-Learn | Supervised Learning
